@@ -1,4 +1,4 @@
-Hi.. Welcome to my profile..
+Hi.. Welcome to my GitHub profile..
 
 - 🔭 I’m currently a Microverse student..
 - 🌱 I’m learning Web Development..
