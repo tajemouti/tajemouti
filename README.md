@@ -1,4 +1,4 @@
-Hi.. Welcome to my GitHub profile..
+<img src="banner.png" alt="banner">
 
 - 🔭 I’m a full stack web developer
 - 🌱 Open to exciting new opportunities!
