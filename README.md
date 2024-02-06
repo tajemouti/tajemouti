@@ -62,6 +62,10 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://ajrass-tajemouti.netlify.app/"><img src="logo.svg" alt="logo" width="160"  height="auto" /></a>
+</div>
+
 <p align="center">
 <a href="https://linkedin.com/in/ajrass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/ajrass/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
