@@ -75,13 +75,30 @@
 </p>
 
 <div align="center">
-  <a href="https://ajrass-tajemouti.netlify.app/" target="_blank"><img src="logo.svg" alt="logo" width="160"  height="auto" /></a>
+  <a href="https://ajrass-tajemouti.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <div class="logo-container">
+      <img src="logo.svg" alt="logo" width="300" height="auto" />
+    </div>
+  </a>
 </div>
 
+<style>
+  .logo-container {
+    animation: logoSpin 3s linear infinite;
+  }
+
+  @keyframes logoSpin {
+    100% {
+      transform: rotateY(360deg);
+    }
+  }
+</style>
+
 <p align="center">
-<a href="https://linkedin.com/in/ajrass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/ajrass/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/AjrassTajemouti" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://linkedin.com/in/ajrass/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/ajrass/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://wa.me/212617708648" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"
+alt="WhatsApp"></a>
 </p>
 
 <br>
