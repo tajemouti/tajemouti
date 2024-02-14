@@ -13,7 +13,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)<br/>
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=ffffff)<br/>
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
@@ -47,12 +48,13 @@
 <br/>
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Rubocop](https://img.shields.io/badge/Rubocop-4B3263?style=for-the-badge&logo=rubocop&logoColor=white)
-![StyleLint](https://img.shields.io/badge/StyleLint-4B3263?style=for-the-badge&logo=stylelint&logoColor=white)
+![Rubocop](https://img.shields.io/badge/Rubocop-FF3E00?style=for-the-badge&logo=rubocop&logoColor=white)
+![StyleLint](https://img.shields.io/badge/StyleLint-38B2AC?style=for-the-badge&logo=stylelint&logoColor=white)
 
 ### 👨‍💻 Methods
 
 ![OOP](https://img.shields.io/badge/-OOP-FF69B4?style=for-the-badge&logo=oop&logoColor=ffffff)
+![MVC](https://img.shields.io/badge/-MVC-FFD700?style=for-the-badge&logo=mvc&logoColor=000000)
 ![TDD](https://img.shields.io/badge/-TDD-FF5733?style=for-the-badge&logo=tdd&logoColor=ffffff)
 ![DevOps](https://img.shields.io/badge/-DevOps-%23000000?style=for-the-badge&logo=devops&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-47CCFF?style=for-the-badge&logo=agile&logoColor=ffffff)
