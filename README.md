@@ -76,23 +76,9 @@
 
 <div align="center">
   <a href="https://ajrass-tajemouti.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <div class="logo-container">
-      <img src="logo.svg" alt="logo" width="300" height="auto" />
-    </div>
+    <img src="logo.svg" alt="logo" width="300" height="auto" />
   </a>
 </div>
-
-<style>
-  .logo-container {
-    animation: logoSpin 3s linear infinite;
-  }
-
-  @keyframes logoSpin {
-    100% {
-      transform: rotateY(360deg);
-    }
-  }
-</style>
 
 <p align="center">
 <a href="https://linkedin.com/in/ajrass/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
