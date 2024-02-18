@@ -57,9 +57,10 @@
 ![MVC](https://img.shields.io/badge/-MVC-FFD700?style=for-the-badge&logo=mvc&logoColor=000000)
 ![TDD](https://img.shields.io/badge/-TDD-FF5733?style=for-the-badge&logo=tdd&logoColor=ffffff)
 ![DevOps](https://img.shields.io/badge/-DevOps-%23000000?style=for-the-badge&logo=devops&logoColor=white)
+<br/>
 ![Agile](https://img.shields.io/badge/-Agile-47CCFF?style=for-the-badge&logo=agile&logoColor=ffffff)
 ![Kanban](https://img.shields.io/badge/-Kanban-009688?style=for-the-badge&logo=kanban&logoColor=ffffff)
-
+![Pair Programming](https://img.shields.io/badge/-Pair%20Programming-4CAF50?style=for-the-badge&logo=pairprogramming&logoColor=ffffff)
 
 ### 📊 GitHub Stats
 
