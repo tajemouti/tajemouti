@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Ajrass — Full-Stack Web Developer" width="100%" />
+  <img src="banner.jpg" alt="Ajrass — Full-Stack Web Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://ajrass-tajemouti.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ajrass.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/ajrass/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/212617708648" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.facebook.com/ajrass/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -24,7 +24,7 @@
 - 🗄️ &nbsp;Comfortable across **PostgreSQL**, **MongoDB** and **Prisma**, and I ship with **Docker**.
 - 🚀 &nbsp;Passionate about creating robust and elegant web solutions.
 - 🌱 &nbsp;I bring a blend of technical expertise and cultural competence to every project.
-- 📫 &nbsp;Reach me through my [portfolio](https://ajrass-tajemouti.netlify.app/) or [LinkedIn](https://linkedin.com/in/ajrass/).
+- 📫 &nbsp;Reach me through my [portfolio](https://ajrass.vercel.app/) or [LinkedIn](https://linkedin.com/in/ajrass/).
 - 💡 &nbsp;*It takes two holes to make a tunnel. Otherwise, it's just a cave — let's build tunnels!*
 
 ---
@@ -127,7 +127,7 @@
 ---
 
 <div align="center">
-  <a href="https://ajrass-tajemouti.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://ajrass.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="logo.svg" alt="Ajrass logo" width="280" height="auto" />
   </a>
   <p><i>Open to freelance work and collaboration — let's build something solid.</i></p>
